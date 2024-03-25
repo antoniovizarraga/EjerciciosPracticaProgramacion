@@ -1,4 +1,4 @@
-Ejercicios para practicar
+Ejercicios para practicar - Antonio Vizarraga
 ========
 
 Este repositorio será el repositorio de prueba que haré para estudiar programación y prepararme para los exámenes de recuperación de programación.
